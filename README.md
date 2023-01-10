@@ -1,6 +1,6 @@
-# MIUI 13 Italian Strings 
+# MIUI 14 Italian Strings 
 
-ITALIAN MIUI 13 Strings for MIUI Xiaomi.eu (www.xiaomi.eu) for multi ROMs
+ITALIAN MIUI 14 Strings for MIUI Xiaomi.eu (www.xiaomi.eu) for multi ROMs
 
 MIUI China is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License.
 
@@ -10,9 +10,6 @@ Based on a work at http://miui.com and http://miui.it
 
 Mantained by:
 - BIOLorenz
-
-Thanks to Translators:
-- Hackintosh98
 
 _________________
 ## Per segnalare un errore di traduzione:
