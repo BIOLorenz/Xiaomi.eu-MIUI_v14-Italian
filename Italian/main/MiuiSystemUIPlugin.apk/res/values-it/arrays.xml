@@ -1,2 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string-array name="config_controlsPreferredPackages">
+        <item>com.kiteguard</item>
+        <item>com.google.android.apps.chromecast.app</item>
+    </string-array>
+    <string-array name="control_center_independent_tiles_mobile">
+        <item>cella</item>
+        <item>wifi</item>
+    </string-array>
+    <string-array name="control_center_independent_tiles_wifi">
+        <item>wifi</item>
+        <item>bt</item>
+    </string-array>
+</resources>

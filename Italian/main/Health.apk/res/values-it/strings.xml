@@ -270,18 +270,6 @@ Se non vuoi sfruttare i consigli personalizzati, puoi comunque effettuare allena
     <string name="chinese_month_november">11</string>
     <string name="chinese_month_october">10</string>
     <string name="chinese_month_september">9</string>
-    <string name="chinese_symbol_animals_chicken">Pollo</string>
-    <string name="chinese_symbol_animals_cow">Mucca</string>
-    <string name="chinese_symbol_animals_dog">Cane</string>
-    <string name="chinese_symbol_animals_dragon">Drago</string>
-    <string name="chinese_symbol_animals_horse">Cavallo</string>
-    <string name="chinese_symbol_animals_monkey">Scimmia</string>
-    <string name="chinese_symbol_animals_mouse">Topo</string>
-    <string name="chinese_symbol_animals_pig">Maiale</string>
-    <string name="chinese_symbol_animals_rabbit">Coniglio</string>
-    <string name="chinese_symbol_animals_sheep">Pecora</string>
-    <string name="chinese_symbol_animals_snake">Serpente</string>
-    <string name="chinese_symbol_animals_tiger">Tigre</string>
     <string name="chip_text">Testo chip</string>
     <string name="choose_from_album">Galleria</string>
     <string name="chronic">Malattie croniche</string>
@@ -1123,6 +1111,8 @@ Se non vuoi condividere le tue informazioni, puoi disattivare questa funzione."<
     <string name="mtrl_badge_numberless_content_description">Nuova notifica</string>
     <string name="mtrl_chip_close_icon_content_description">Rimuovi %1$s</string>
     <string name="mtrl_exceed_max_badge_number_suffix">%1$d%2$s</string>
+    <string name="mtrl_picker_cancel">@android:string/cancel</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_format">dd MMM, yyyy</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">Seleziona una data</string>
@@ -1276,6 +1266,7 @@ Se non vuoi condividere le tue informazioni, puoi disattivare questa funzione."<
     <string name="rem_Duration_increase_description">Il tuo sonno REM è troppo lungo</string>
     <string name="rem_duration">Durata fase REM</string>
     <string name="rem_duration_decrease_description">Il tuo sonno REM è troppo corto</string>
+    <string name="rem_duration_description">REM si riferisce al movimento oculare. Il sonno può essere diviso in movimento oculare rapido (REM) e movimento oculare non rapido (NREM). Il movimento oculare rapido rappresenta circa il 20-25%% della durata totale del sonno. Quando ci si sveglia in questa fase, dal 74 al 95%% delle persone afferma di aver sognato e di essere in grado di ricordare i propri sogni. Il cervello è molto attivo e il corpo è completamente rilassato durante la fase REM, il che rende questa fase essenziale per mantenere funzioni cognitive.</string>
     <string name="rem_duration_normal_description">La durata del sonno REM è normale</string>
     <string name="remarks">Nota</string>
     <string name="remind">Avviso</string>
