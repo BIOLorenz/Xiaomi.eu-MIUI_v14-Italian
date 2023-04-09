@@ -2,7 +2,7 @@
 <resources>
     <string name="HIPS_Perm_Access_Gallery">Accesso alla Galleria</string>
     <string name="HIPS_Perm_Access_Gallery_Desc">Consente a questa app di accedere agli elementi nella tua Galleria</string>
-    <string name="HIPS_Perm_Bluetooth_Connectivity_Desc">Accendo/Spegni Bluetooth</string>
+    <string name="HIPS_Perm_Bluetooth_Connectivity_Desc">Accendi/Spegni Bluetooth</string>
     <string name="HIPS_Perm_CallLog_Desc">Modifica registro chiamate</string>
     <string name="HIPS_Perm_Call_Desc">Eseguire chiamate</string>
     <string name="HIPS_Perm_Contact_Desc">Modifica contatti</string>
