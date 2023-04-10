@@ -1049,7 +1049,7 @@ Puoi concedere questa autorizzazione in Impostazioni &gt; Privacy."</string>
     <string name="purchased">Ordini</string>
     <string name="read_and_agree_account_privacy"><Data>\"Ho letto e accettato il Mi Account &lt;font color=\"#37A5FF\"&gt;&lt;a href=\"%3$s\"&gt;Accordo utente&lt;/a&gt;&lt;/font&gt; e &lt;font color=\"#37A5FF\"&gt;&lt;a href=\"%4$s\"&gt;Informativa sulla privacy&lt;/a&gt;&lt;/font&gt;.\"</Data></string>
     <string name="recently_used">Utilizzata di recente</string>
-    <string name="recommend_bottom_tips">已经到底部啦</string>
+    <string name="recommend_bottom_tips">Sei già in fondo!</string>
     <string name="recommend_trigger">Consigli personalizzati</string>
     <string name="recommend_trigger_summary">Attivare per ricevere annunci in base alle preferenze</string>
     <string name="refresh_footer_all_loaded">"Per ora è tutto."</string>

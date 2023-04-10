@@ -123,8 +123,8 @@
     <string name="app_disable_description_title">Disattivare l\'app di sistema?</string>
     <string name="app_label">Download</string>
     <string name="app_permission_confirm">Ok</string>
-    <string name="app_permission_optional">可选权限</string>
-    <string name="app_permission_require">必要权限</string>
+    <string name="app_permission_optional">Permessi facoltativi</string>
+    <string name="app_permission_require">Permessi obbligatori</string>
     <string name="app_permission_use_desc">Permessi</string>
     <string name="app_permission_use_group_account">Account</string>
     <string name="app_permission_use_group_account_desc">Per ottenere informazioni sull\'account Xiaomi</string>

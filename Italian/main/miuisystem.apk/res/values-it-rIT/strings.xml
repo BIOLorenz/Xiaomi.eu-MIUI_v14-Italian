@@ -5,9 +5,9 @@
     <string name="android_ringtone_default_with_actual">Suoneria predefinita (%1$s)</string>
     <string name="android_ringtone_silent">Nessuna</string>
     <string name="android_ringtone_unknown">Suoneria sconosciuta</string>
-    <string name="anti_aggression_day">反侵略日</string>
+    <string name="anti_aggression_day">Giornata anti violenza</string>
     <string name="arbor_day">Giornata degli alberi</string>
-    <string name="armed_forces_day">軍人節</string>
+    <string name="armed_forces_day">Giornata dell'esercito</string>
     <string name="asend">Invia</string>
     <string name="atlantis">Atlantide (stereo)</string>
     <string name="autumn_begins">Inizio autunno</string>
@@ -101,7 +101,7 @@
     <string name="insects_awaken">惊蛰</string>
     <string name="kungfu">Kung fu</string>
     <string name="labour_day">Festa dei lavoratori</string>
-    <string name="lantern_festival">元宵节</string>
+    <string name="lantern_festival">Festival delle lanterne</string>
     <string name="leisure">Svago</string>
     <string name="light_snow">Nevicate leggere</string>
     <string name="lollipop">Lecca-lecca</string>
@@ -124,7 +124,7 @@
     <string name="lunar_shi_yi">11</string>
     <string name="lunar_si">4</string>
     <string name="lunar_wu">5</string>
-    <string name="lunar_year">年</string>
+    <string name="lunar_year">Anno</string>
     <string name="lunar_yi">1</string>
     <string name="lunar_yue">Mese</string>
     <string name="lunar_zheng">1</string>
