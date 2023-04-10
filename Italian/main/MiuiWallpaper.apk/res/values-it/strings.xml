@@ -347,7 +347,7 @@ mm"</string>
     <string name="super_wallpaper_list_label">Super Sfondi</string>
     <string name="super_wallpaper_setting_apply_success_toast">Applicato correttamente</string>
     <string name="super_wallpaper_setting_apply_super_wallpaper_button_text">Applica</string>
-    <string name="super_wallpaper_setting_choose_position_btn_text">请选择省市</string>
+    <string name="super_wallpaper_setting_choose_position_btn_text">Selezionare posizione</string>
     <string name="super_wallpaper_setting_coordinate_title">Coordinate</string>
     <string name="super_wallpaper_setting_view_height_title">Altitudine</string>
     <string name="task_already_exist">Questa attività esiste già</string>

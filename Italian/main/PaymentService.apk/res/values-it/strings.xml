@@ -149,11 +149,11 @@
     <string name="choose_to_signup">"No, ne creerò uno"</string>
     <string name="clearable_edittext_clear_description">Cancella</string>
     <string name="close">Chiudi</string>
-    <string name="code_count_down_remind_end">一次</string>
+    <string name="code_count_down_remind_end">Una volta</string>
     <string name="code_count_down_remind_start">为保障支付安全,付款码将60s自动</string>
     <string name="code_count_down_update_toast_more">请不要频繁刷新</string>
     <string name="collect_diagnosis_log">Raccogli logs</string>
-    <string name="comunication_error">通讯错误!</string>
+    <string name="comunication_error">Errore comunicazione!</string>
     <string name="confirm">Determina</string>
     <string name="confirm_activate_email">Verificato</string>
     <string name="confirm_bundled_phone_dialog_title">Conferma numero di telefono associato</string>
@@ -164,7 +164,7 @@
     <string name="confirm_to_pay">确定付款</string>
     <string name="confirm_unbundled_phone_dialog_message">Questo numero di telefono è associato al Mi Account %2$s on %1$s. Non sarà più associato al Mi Account %3$s si  desidera continuare?</string>
     <string name="connect_error">网络连接失败,请检查您的网络</string>
-    <string name="connect_internet">加载中…</string>
+    <string name="connect_internet">Caricando...</string>
     <string name="connect_internet_special">正在获取…</string>
     <string name="connect_timeout">网络连接超时</string>
     <string name="coupon_amount_txt">优惠立减</string>
@@ -217,12 +217,10 @@ Invia questo codice al supervisore."</string>
     <string name="error_invalid_bind_address">Questo indirizzo email non è valido.</string>
     <string name="evening">Pomeriggio</string>
     <string name="exceed_binded_phone_times_notice">Questo numero di telefono è già associato ad un altro MI account.</string>
-    <string name="exit">退出</string>
+    <string name="exit">Esci</string>
     <string name="failed_dup_secure_phone_number">Questo numero di telefono è già associato ad un altro MI account</string>
-    <string name="findNewVersion">"发现新版本,是否更新?
-"</string>
-    <string name="findNewVersion_must">"发现新版本,必须更新后方可使用!
-"</string>
+    <string name="findNewVersion">"Trovata una nuova versione, aggiornare?"</string>
+    <string name="findNewVersion_must">"Trovata una nuova versione, necessario aggiornare prima"</string>
     <string name="find_psw">Password dimenticata</string>
     <string name="fmt_chinese_date">dd/MM</string>
     <string name="fmt_date_day">dd</string>
@@ -302,20 +300,20 @@ Invia questo codice al supervisore."</string>
     <string name="install_tile">全民花</string>
     <string name="isornot_your_mi_account">È questo il tuo Mi Account?</string>
     <string name="just_a_second">Attendi…</string>
-    <string name="label_version">版本号：</string>
+    <string name="label_version">Versione：</string>
     <string name="loading">Attendi…</string>
-    <string name="loadingError">下载出错</string>
+    <string name="loadingError">Errore di Download</string>
     <string name="location_GPS_disable_confirmBt">立即开启</string>
     <string name="location_GPS_disable_prompt">使用全民付移动支付需要您开启定位功能,请至系统设置中开启</string>
     <string name="location_GPS_disable_title">定位功能未开启</string>
     <string name="location_get_fail_prompt">请开启APP定位权限并保证网络处于畅通状态</string>
     <string name="location_get_fail_prompt_select">获取位置信息失败,是否重新获取?</string>
     <string name="location_get_fail_title">定位信息获取失败</string>
-    <string name="login_btn">登录</string>
-    <string name="login_forget_password">忘记密码?</string>
-    <string name="login_password_hint">登录密码</string>
-    <string name="login_register">注册</string>
-    <string name="login_username_hint">手机号/邮箱名/用户名</string>
+    <string name="login_btn">Login</string>
+    <string name="login_forget_password">Password dimenticata?</string>
+    <string name="login_password_hint">Suggerimento password</string>
+    <string name="login_register">Registrazione</string>
+    <string name="login_username_hint">Numero telefono/E-mail/Nome utente</string>
     <string name="logout_account">Disconetti</string>
     <string name="merchantId_empty_prompt">商户号不能为空</string>
     <string name="merchantUserId_empty_prompt">商户用户号不能为空</string>
@@ -1116,7 +1114,7 @@ Poiché la fornitura di servizi MiCoin si basa sulla raccolta di informazioni pe
     <string name="ppplugin_not_support_the_card">暂不支持该卡!</string>
     <string name="ppplugin_not_supportcard_prompt">对不起,暂不支持此卡的绑定和支付。</string>
     <string name="ppplugin_notcheck_protocal_prompt">请勾选《用户协议》后再进行下一步</string>
-    <string name="ppplugin_notdeal_network_prompt">知道了</string>
+    <string name="ppplugin_notdeal_network_prompt">Ok</string>
     <string name="ppplugin_old_pwd_prompt">原始密码</string>
     <string name="ppplugin_onlinepay_timeout_prompt">"支付超时
 为保障支付安全,请重新支付"</string>
@@ -1142,7 +1140,7 @@ Poiché la fornitura di servizi MiCoin si basa sulla raccolta di informazioni pe
     <string name="ppplugin_payhelp_passage_title5">5、如何添加银行卡?</string>
     <string name="ppplugin_payhelp_passage_title6">6、忘记密码怎么办?</string>
     <string name="ppplugin_payhelp_passage_title7">7、修改支付密码?</string>
-    <string name="ppplugin_payhelp_title">帮助</string>
+    <string name="ppplugin_payhelp_title">Aiuto</string>
     <string name="ppplugin_paypwd_empty_prompt">支付密码不能为空</string>
     <string name="ppplugin_paypwd_format_error_prompt">支付密码长度错误</string>
     <string name="ppplugin_paysetting_title">支付设置</string>
@@ -1173,8 +1171,8 @@ Poiché la fornitura di servizi MiCoin si basa sulla raccolta di informazioni pe
     <string name="ppplugin_session_timeout_prompt">由于您长时间未操作,请重新登录</string>
     <string name="ppplugin_set_password_title">设置支付密码</string>
     <string name="ppplugin_set_pwd_hint">输入六位数字支付密码</string>
-    <string name="ppplugin_set_pwd_prompt">设置密码</string>
-    <string name="ppplugin_setting_prompt">设置</string>
+    <string name="ppplugin_set_pwd_prompt">Imposta Password</string>
+    <string name="ppplugin_setting_prompt">Impostazioni</string>
     <string name="ppplugin_sms_vertify_code_toast">正在为您自动填写短信验证码</string>
     <string name="ppplugin_smsphone_prompt_left">请输入手机</string>
     <string name="ppplugin_smsphone_prompt_right">收到的短信验证码</string>
@@ -1199,7 +1197,7 @@ Poiché la fornitura di servizi MiCoin si basa sulla raccolta di informazioni pe
     <string name="quick_pay_orderid_null">未获取支付订单</string>
     <string name="quick_pay_password_input_hint">输入支付密码</string>
     <string name="quick_pay_success">付款成功!</string>
-    <string name="re_input">重新输入</string>
+    <string name="re_input">Reinserire</string>
     <string name="request_camera_permission_message">Questo servizio richiede la tua autorizzazione, rispetteremo rigorosamente le leggi pertinenti per proteggere le tue informazioni personali: &lt;br&gt;&lt;br&gt;&lt;b&gt; Accesso Fotocamera: necessario per l\'impostazione di Avatar &lt;/b&gt;&lt;br&gt;&lt;br&gt; Se non accetti di consentire i permessi di cui sopra, questa funzione non funzionerà correttamente, ma non influenzerà l\'uso delle funzioni di base di questa applicazione. È possibile scegliere di disattivare l\'autorizzazione di cui sopra nelle impostazioni di sistema.</string>
     <string name="resend_active_email">Invia di nuovo</string>
     <string name="resend_email_reach_limit_message">"Hai richiesto troppe email di verifica. Assicurati che l'email di verifica non sia nella cartella Spam."</string>
@@ -1224,7 +1222,7 @@ Poiché la fornitura di servizi MiCoin si basa sulla raccolta di informazioni pe
     <string name="select_pay_amount_above">支付金额超出单笔交易限额,请重新选择正确金额进行支付!</string>
     <string name="select_pay_type">请选择您需要的支付方式!</string>
     <string name="select_pay_type_dialog_confirm">Conferma</string>
-    <string name="select_pay_type_dialog_text">发送成功!</string>
+    <string name="select_pay_type_dialog_text">Invio riuscito</string>
     <string name="send">Invia</string>
     <string name="send_diagnosis_log">Invia log</string>
     <string name="send_email_activate_message">E-mail di verifica inviata con successo</string>
@@ -1269,7 +1267,7 @@ Poiché la fornitura di servizi MiCoin si basa sulla raccolta di informazioni pe
     <string name="solar_term_winter_solstice">Solstizio d\'inverno</string>
     <string name="statuecode_empty_prompt">用户状态码不能为空</string>
     <string name="statuecode_error_prompt">用户状态码错误</string>
-    <string name="stopUpGrade">终止更新</string>
+    <string name="stopUpGrade">Aggiornamento interrotto</string>
     <string name="sunday">Domenica</string>
     <string name="sunday_short">Dom</string>
     <string name="sunday_shortest">Dom</string>
@@ -1286,7 +1284,7 @@ Poiché la fornitura di servizi MiCoin si basa sulla raccolta di informazioni pe
     <string name="text_no_more_coupon">没有更多优惠券了|查看历史优惠券</string>
     <string name="text_no_more_history_coupon">没有更多优惠券了</string>
     <string name="text_not_select_coupon">不使用优惠券</string>
-    <string name="text_save">保存</string>
+    <string name="text_save">Salva</string>
     <string name="text_tips_input_password">为了您的账号安全请输入支付密码</string>
     <string name="the_anniversary_of_lifting_martial_law">Anniversario dell\'abolizione della legge marziale</string>
     <string name="the_anti_aggression_day">Giornata della pace</string>
@@ -1349,7 +1347,7 @@ Poiché la fornitura di servizi MiCoin si basa sulla raccolta di informazioni pe
     <string name="title_desc">提示</string>
     <string name="title_dialog_disconnect_network">通讯异常,请检查手机网络设置</string>
     <string name="title_mobile_pay">全民付移动支付</string>
-    <string name="title_nfc_pay">NFC付款</string>
+    <string name="title_nfc_pay">Pagamento NFC</string>
     <string name="toast_dialog_no_bindcard">请打开商户APP名称APP,在银联全民付快捷支付中至少绑定一张银行卡,方可使用现场移动支付功能POS：用户手机未绑定任何银行卡或扣款账户,无法使用现场移动支付功能</string>
     <string name="toast_dialog_no_bindcard_poshint">用户手机未绑定任何银行卡或扣款账户,无法使用现场移动支付功能</string>
     <string name="toast_dialog_view_pay_content">交易通讯未完成,请将手机贴近POS机</string>
@@ -1360,8 +1358,8 @@ Poiché la fornitura di servizi MiCoin si basa sulla raccolta di informazioni pe
     <string name="tuesday">Martedì</string>
     <string name="tuesday_short">Mar</string>
     <string name="tuesday_shortest">Mar</string>
-    <string name="upGrade">更新</string>
-    <string name="updateContent">"更新内容: 
+    <string name="upGrade">Aggiornamento</string>
+    <string name="updateContent">"Contenuti dell'aggiornamento: 
 "</string>
     <string name="update_email_address_dialog_message">Devi verificare la tua identità prima di aggiornare l\'email di recupero.</string>
     <string name="update_email_address_dialog_title">Aggiorna email di recupero</string>

@@ -271,7 +271,7 @@ Apri WeChat e vai su Profilo &gt; Impostazioni &gt; Generale &gt; Esegui il back
     <string name="evening">Pomeriggio</string>
     <string name="expand_button_title">Avanzate</string>
     <string name="fail_list_tips">"I seguenti elementi non possono essere trasferiti sul nuovo dispositivo."</string>
-    <string name="failed_description">设置失败</string>
+    <string name="failed_description">Impostazione fallita</string>
     <string name="faq">Domande frequenti</string>
     <string name="finished">Terminato</string>
     <string name="fmt_chinese_date">dd/MM</string>

@@ -59,10 +59,10 @@
     <string name="am">AM</string>
     <string name="androidx_startup">androidx.startup</string>
     <string name="app_name">Meteo</string>
-    <string name="aqi_15_days_desc">15天空气质量预报</string>
-    <string name="aqi_24_hours_desc">24小时空气质量预报</string>
-    <string name="aqi_48_hours_desc">24小时空气质量预报</string>
-    <string name="aqi_5_days_desc">15天空气质量预报</string>
+    <string name="aqi_15_days_desc">Previsioni qualità aria a 15 giorni</string>
+    <string name="aqi_24_hours_desc">Previsioni qualità aria a 24 ore</string>
+    <string name="aqi_48_hours_desc">Previsioni qualità aria a 48 ore</string>
+    <string name="aqi_5_days_desc">Previsioni qualità aria a 5 giorni</string>
     <string name="aqi_alert_channel_name">Avvisi qualità aria</string>
     <string name="aqi_data_source">Fornito da Caiyun Weather</string>
     <string name="aqi_desc">Indice Qualità Aria</string>
