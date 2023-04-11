@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="Set_free_password_threshold_success">小额免密支付设置成功!</string>
+    <string name="Set_free_password_threshold_success">Impostato il pagamento senza password per somme piccole</string>
     <string name="abc_action_bar_home_description">Vai alla Home</string>
     <string name="abc_action_bar_up_description">Vai verso l\'alto</string>
     <string name="abc_action_menu_overflow_description">Altre opzioni</string>
@@ -65,18 +65,18 @@
     <string name="am">AM</string>
     <string name="app_name">Mi Credit</string>
     <string name="auth_fail_warning">Sessione scaduta, accedi di nuovo.</string>
-    <string name="bank_of_card">发卡行</string>
+    <string name="bank_of_card">Banca emittente</string>
     <string name="bind_sign_in_title">Aggiungi Mi Account</string>
-    <string name="brokerage">手续费：</string>
-    <string name="call_ums_support">请致电银联商务客服</string>
+    <string name="brokerage">Tassa di gestione：</string>
+    <string name="call_ums_support">Si prega di chiamare il servizio clienti</string>
     <string name="cancel">Annulla</string>
-    <string name="cancel_coupon">不使用优惠券</string>
+    <string name="cancel_coupon">Non utilizzare Coupon</string>
     <string name="card_title">card_title</string>
     <string name="change_activate_email">Cambia indirizzo email</string>
     <string name="change_password">Cambia password</string>
     <string name="character_counter_content_description">Limite caratteri superato %1$d di %2$d</string>
     <string name="character_counter_pattern">%1$d di %2$d</string>
-    <string name="check_response_error">应答报文校验失败!</string>
+    <string name="check_response_error">Errore verifica risposta</string>
     <string name="chinese_day_1">1</string>
     <string name="chinese_day_10">10</string>
     <string name="chinese_day_11">11</string>
@@ -160,8 +160,8 @@
     <string name="confirm_cancel_input_password">取消验证</string>
     <string name="confirm_keep_input_password">继续输入</string>
     <string name="confirm_new_pwd">Conferma nuova password</string>
-    <string name="confirm_pay">确定支付</string>
-    <string name="confirm_to_pay">确定付款</string>
+    <string name="confirm_pay">Conferma il pagamento</string>
+    <string name="confirm_to_pay">Confermare il pagamento</string>
     <string name="confirm_unbundled_phone_dialog_message">Questo numero di telefono è associato al Mi Account %2$s on %1$s. Non sarà più associato al Mi Account %3$s si  desidera continuare?</string>
     <string name="connect_error">网络连接失败,请检查您的网络</string>
     <string name="connect_internet">Caricando...</string>
@@ -176,8 +176,8 @@
     <string name="default_pay_type">银行卡号支付</string>
     <string name="device_default_name">手持设备</string>
     <string name="device_item_default_time">首次使用：</string>
-    <string name="device_other">其他设备</string>
-    <string name="device_running">正在使用</string>
+    <string name="device_other">Altri dispositivi</string>
+    <string name="device_running">Dispositivo in esecuzione</string>
     <string name="diagnosis_log_send_failed">"Impossibile inviare i log. Riprova."</string>
     <string name="diagnosis_log_sent_format">"Log inviati con successo.
 ID:%s
@@ -259,7 +259,7 @@ Invia questo codice al supervisore."</string>
     <string name="fmt_weekday_time_timezone">zW T</string>
     <string name="fmt_weekday_timezone">zW</string>
     <string name="for_diagnosis_usage_only">I log sono utilizzati solo per la diagnostica.</string>
-    <string name="forget_pwd">忘记密码</string>
+    <string name="forget_pwd">Password dimenticata</string>
     <string name="format_count_down">(%1$d)</string>
     <string name="format_full_screen_paycode">手输入付款码为:%1$s</string>
     <string name="format_num_coupon">%1$d张优惠券</string>

@@ -5733,20 +5733,20 @@ La formattazione cancellerà il contenuto esistente sulla ^2. Per evitare di per
     <string name="top_load_fail_detail">"Impossibile caricare, tocca per provare di nuovo"</string>
     <string name="top_no_network_detial">"Impossibile caricare, controlla la connessione di rete e riprova"</string>
     <string name="track_auto_collapsed">自动收起</string>
-    <string name="track_click_bubble_message">点击贴边气泡</string>
-    <string name="track_inner_screen">内屏</string>
+    <string name="track_click_bubble_message">Cliccare sulla notifica pop-up</string>
+    <string name="track_inner_screen">Schermo Interno</string>
     <string name="track_manual_collapsed">手动收起</string>
-    <string name="track_no">否</string>
-    <string name="track_outer_screen">外屏</string>
-    <string name="track_phone">手机</string>
-    <string name="track_screen_horizontal">横屏</string>
+    <string name="track_no">no</string>
+    <string name="track_outer_screen">Schermo esterno</string>
+    <string name="track_phone">Telefono</string>
+    <string name="track_screen_horizontal">Schermo orizzontale</string>
     <string name="track_screen_vertical">&lt;unk&gt; &lt;unk&gt;</string>
-    <string name="track_sidebar_drag_center">全局侧边栏_拖拽应用至屏幕中央</string>
-    <string name="track_sidebar_drag_left">全局侧边栏_拖拽应用至屏幕左侧</string>
-    <string name="track_sidebar_drag_right">全局侧边栏_拖拽应用至屏幕右侧</string>
-    <string name="track_switch_off">关</string>
-    <string name="track_switch_on">开</string>
-    <string name="track_yes">是</string>
+    <string name="track_sidebar_drag_center">Trascina l'applicazione nella parte centrale dello schermo</string>
+    <string name="track_sidebar_drag_left">Trascina l'applicazione nella parte sinistra dello schermo</string>
+    <string name="track_sidebar_drag_right">Trascina l'applicazione nella parte destra dello schermo</string>
+    <string name="track_switch_off">Off</string>
+    <string name="track_switch_on">On</string>
+    <string name="track_yes">sì</string>
     <string name="traffic_advanced_settings">Impostazioni Avanzate Traffico</string>
     <string name="traffic_alarm">Imposta sveglia</string>
     <string name="traffic_alert_auto_modify_notification_sumarry">Piano mensile cambiato in %s.</string>
@@ -5782,7 +5782,7 @@ Aggiunti dati extra"</string>
 
 I dati rimanenti includono dati che sono stati erogati il mese precedente."</string>
     <string name="traffic_limit_error_alert_title">Avviso limite dati %s</string>
-    <string name="traffic_limit_input">固定流量额度（选填）</string>
+    <string name="traffic_limit_input">Imposta la soglia di traffico (Opzionale)</string>
     <string name="traffic_none">Nessuno</string>
     <string name="traffic_over_purchase_link">"Hai raggiunto il limite di utilizzo dei dati del tuo piano.&lt;br/&gt;Se superi il limite di utilizzo dei dati del tuo piano, il tuo operatore potrebbe addebitarti costi aggiuntivi.&lt;br/&gt;&lt;br/&gt;&lt;font color='#ccffffff'&gt;&lt;U&gt;Tocca per ricaricare il tuo saldo.&lt;/U&gt;&lt;/font&gt;"</string>
     <string name="traffic_provider_no_sim">"SIM non installata"</string>
@@ -5842,7 +5842,7 @@ I dati rimanenti includono dati che sono stati erogati il mese precedente."</str
     <string name="uninstall_danagerous_msg">\"%s\" potrebbe danneggiare il dispositivo, diminuire le prestazioni o causare riavvii.</string>
     <string name="uninstall_danagerous_title">Disinstalla app pericolose</string>
     <string name="unknown_operator">"Puoi chiamare %2$s per confermare i dettagli del tuo piano con %1$s."</string>
-    <string name="unknown_package">不清楚自己的套餐是什么？</string>
+    <string name="unknown_package">Non sai qual è il tuo piano dati?</string>
     <string name="unlike">Non ora</string>
     <string name="unlimited_cellular_data_monthly">Piano illimitato</string>
     <string name="unlock_failed">Errore interno</string>
@@ -6122,9 +6122,9 @@ Prova ad upscalare la risoluzione!"</string>
     <string name="whitelist_prefix_add_hint">Aggiungi alla lista eccezioni tutti i numeri con prefisso</string>
     <string name="widget_appbehavior_apps_count">28</string>
     <string name="widget_appbehavior_apps_title">应用A等3个应用</string>
-    <string name="widget_back_guide_appbehavior_summary">隐私安全,了然于心</string>
-    <string name="widget_back_guide_appbehavior_title">隐私保护</string>
-    <string name="widget_back_guide_power_summary">查看全部设备的电量</string>
+    <string name="widget_back_guide_appbehavior_summary">Abbiamo a cuore la tua privacy</string>
+    <string name="widget_back_guide_appbehavior_title">Protezione della privacy</string>
+    <string name="widget_back_guide_power_summary">Controlla il livello della batteria di tutti i dispositivi</string>
     <string name="widget_button_text">Aggiungi Widget</string>
     <string name="widget_cleaner_size_unit">MB</string>
     <string name="widget_health_size">86</string>
@@ -6174,5 +6174,5 @@ Prova ad upscalare la risoluzione!"</string>
     <string name="xunyou_server_expired">Sessione scaduta.</string>
     <string name="yesterday">Ieri</string>
     <string name="yuan">CNY</string>
-    <string name="zhifubao_not_found">您的应用版本过低或者未安装</string>
+    <string name="zhifubao_not_found">La versione dell'app è troppo vecchia oppure non è installata</string>
 </resources>
