@@ -460,10 +460,10 @@
     <string name="midnight">Notte</string>
     <string name="mihome_goto_install">Installa</string>
     <string name="mihome_goto_update">Aggiorna</string>
-    <string name="mihome_install_message">绑定设备需安装米家APP，请安装并登录后，再次尝试。</string>
-    <string name="mihome_install_title">安装米家APP</string>
-    <string name="mihome_update_message">当前米家APP版本过低，请更新后，再次尝试。</string>
-    <string name="mihome_update_title">更新米家APP</string>
+    <string name="mihome_install_message">Per associare il dispositivo, è necessario installare l'App Mi Home.</string>
+    <string name="mihome_install_title">Installa Mi Home</string>
+    <string name="mihome_update_message">Aggiorna l'App Mi Home e riprova</string>
+    <string name="mihome_update_title">Aggiorna l'App Mi Home</string>
     <string name="mipayin_dialog_more">Altro</string>
     <string name="mipayin_dialog_title">Apri con</string>
     <string name="miracast_connect">Trasmetti</string>
