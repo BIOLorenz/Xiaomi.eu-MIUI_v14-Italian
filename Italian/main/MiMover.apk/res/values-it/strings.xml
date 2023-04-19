@@ -426,7 +426,7 @@ Apri WeChat e vai su Profilo &gt; Impostazioni &gt; Generale &gt; Esegui il back
     <string name="less_than_1_minute">Meno di 1 minuto</string>
     <string name="loading_data">Attendi…</string>
     <string name="location_permission_desc">Per trovare dispositivi nelle vicinanze</string>
-    <string name="location_permission_request">用于与另一台手机配对连接</string>
+    <string name="location_permission_request">Per l'accoppiamento con un altro telefono</string>
     <string name="lockscreen_access_pattern_cell_added">Cella aggiunta</string>
     <string name="lockscreen_access_pattern_cleared">Sequenza annullata</string>
     <string name="lockscreen_access_pattern_start">Sequenza iniziata</string>
@@ -804,8 +804,8 @@ Libera almeno %s."</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="succ_description">Fatto</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
-    <string name="summary_open_wlan">为了保证迁移过程的稳定性，小米换机申请本权限，请您允许</string>
-    <string name="summary_request_alert_window_prem">为了保证迁移过程的稳定性，小米换机申请本权限，请您允许</string>
+    <string name="summary_open_wlan">Per garantire la stabilità del processo di migrazione, Xiaomi ha richiesto l'autorizzazione per questo dispositivo, si prega di consentire</string>
+    <string name="summary_request_alert_window_prem">Per garantire la stabilità del processo di migrazione, Xiaomi ha richiesto l'autorizzazione per questo dispositivo, si prega di consentire</string>
     <string name="summary_request_write_settings_prem">Mi Mover ha bisogno di questo permesso per attivare il Wi-Fi e creare un hotspot per il trasferimento dei file.</string>
     <string name="sunday">Domenica</string>
     <string name="sunday_short">Dom</string>
