@@ -2296,6 +2296,7 @@ Questa funzione può essere disattivata in [Settings]</string>
     <string name="common_issue">Domande frequenti</string>
     <string name="common_settings">Impostazioni rapide</string>
     <string name="complete_parameters">Tutte le specifiche</string>
+    <string name="complete_parameters_new">Informazioni e specifiche dettagliate</string>
     <string name="complete_settings">Impostazioni generali</string>
     <string name="computer_backup_summary">Effettua il backup e ripristina gli elementi utilizzando un computer</string>
     <string name="computer_backup_title">Computer</string>
