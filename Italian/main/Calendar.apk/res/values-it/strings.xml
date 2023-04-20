@@ -280,7 +280,7 @@
     <string name="directory_searching_fmt">Ricerca %s…</string>
     <string name="discard_label">Annulla</string>
     <string name="does_not_repeat">Evento singolo</string>
-    <string name="double_seventh_day_tradition">七夕</string>
+    <string name="double_seventh_day_tradition">San valentino cinese</string>
     <string name="downloading">Scaricando</string>
     <string name="dropdown_delete_button_desc">Rimuovi %s dai destinatari</string>
     <string name="early_morning">Mattina</string>
@@ -424,7 +424,7 @@
     <string name="full_scorecard">Classifica completa</string>
     <string name="gadget_no_events">Nessun evento</string>
     <string name="gadget_title">Calendario</string>
-    <string name="gas_detail_title">燃气缴费：</string>
+    <string name="gas_detail_title">Pagamento del gas：</string>
     <string name="glance_card_sub_title">Ottieni storie entusiasmanti ad ogni sblocco</string>
     <string name="glance_card_title">Sguardo per Mi</string>
     <string name="global_action_text_card_manager">Personalizza il calendario</string>
@@ -1171,7 +1171,7 @@ Puoi anche aggiungere dei promemoria in modo da non perderti nulla di importante
     <string name="week_number">Mostra il numero della settimana</string>
     <string name="weekly">Settimanale (ogni %s)</string>
     <string name="when_label">Quando</string>
-    <string name="white_dews_tradition">白露(Bailu)</string>
+    <string name="white_dews_tradition">Rugiada bianca</string>
     <string name="widget_events">Prossimo evento</string>
     <string name="widget_get_weather_info">Ricevi info meteo &gt;</string>
     <string name="widget_no_events">Nessun evento</string>
