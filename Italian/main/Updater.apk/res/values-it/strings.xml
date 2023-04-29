@@ -40,7 +40,7 @@
     <string name="fetch_notification_download_eta_hrs">%1$do %2$dm %3$ds rimasti</string>
     <string name="fetch_notification_download_eta_min">%1$dm %2$ds rimasti</string>
     <string name="fetch_notification_download_eta_sec">%1$ds rimasti</string>
-    <string name="fetch_notification_download_failed">设置失败</string>
+    <string name="fetch_notification_download_failed">Impostazione fallita</string>
     <string name="fetch_notification_download_pause">Pausa</string>
     <string name="fetch_notification_download_paused">Pausa</string>
     <string name="fetch_notification_download_resume">Riprendi</string>
