@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="miuix_navigator_content_switch_description">Mostra barra laterale</string>
+    <string name="miuix_navigator_multiple_choice">Seleziona</string>
+    <string name="miuix_navigator_navigator_switch_description">Nascondi barra laterale</string>
     <string name="abc_action_bar_home_description">Vai alla Home</string>
     <string name="abc_action_bar_up_description">Vai verso l\'alto</string>
     <string name="abc_action_menu_overflow_description">Altre opzioni</string>

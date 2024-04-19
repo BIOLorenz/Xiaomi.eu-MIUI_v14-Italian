@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="miuix_item_view_role_description">Tab</string>
+    <string name="miuix_navigator_content_switch_description">Mostra barra laterale</string>
+    <string name="miuix_navigator_multiple_choice">Seleziona</string>
+    <string name="miuix_navigator_navigator_switch_description">Nascondi barra laterale</string>
+    <string name="content_preview_ratio">1:1</string>
     <string name="DOWNLOAD_UNIT_BIT">B</string>
     <string name="DOWNLOAD_UNIT_GB">GB</string>
     <string name="DOWNLOAD_UNIT_KB">KB</string>

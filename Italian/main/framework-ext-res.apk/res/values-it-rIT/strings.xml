@@ -1,5 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="config_tof_client_Component">com.miui.securitycore/com.miui.tof.service.TofService</string>
+    <string name="hovermode_text_confirm">Fatto</string>
+    <string name="hovermode_text_doubleclick">Tocca due volte per mettere in pausa/riprodurre</string>
+    <string name="hovermode_text_drag">Scorri per ingrandire</string>
+    <string name="hovermode_text_help">Aiuto</string>
+    <string name="hovermode_text_left">Regola la luminosità</string>
+    <string name="hovermode_text_prompt">Quando la modalità Hover è attiva, utilizza i gesti nella metà inferiore dello schermo. Potrebbero esserci variazioni tra le app.</string>
+    <string name="hovermode_text_right">Regola il volume</string>
+    <string name="miuivideo_activity" />
+    <string name="no_avaliable_application">Nessuna app disponibile</string>
+    <string name="open_system_optimization">Attiva prima l'ottimizzazione del sistema</string>
+    <string name="tof_music_support_scene_des">Supporta i controlli del lettore musicale</string>
+    <string name="tof_office_support_scene_des">Supporta documenti Word e presentazioni PowerPoint</string>
+    <string name="tof_short_video_support_scene_des">Supporta il passaggio da un video all'altro</string>
+    <string name="tof_video_support_scene_des">Supporta i controlli del lettore video a schermo intero</string>
+    <string name="wallpaper_geometrically_irregular_title">Geometria astratta</string>
+    <string name="wallpaper_neon_title">Neon</string>
+    <string name="wallpaper_overlapping_space_title">Forma e ombra</string>
+    <string name="wallpaper_submerged_wing_title">Trame</string>
+    <string name="wallpaper_wabi_sabi_title">Wabi_Sabi</string>
     <string name="acousticguitar">Chitarra acustica</string>
     <string name="activity_package_delete_confirm_title">Attenzione</string>
     <string name="add_frequent_phrases">Aggiungi frasi frequenti</string>

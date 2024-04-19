@@ -1,5 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+     <string name="align_satellite_model_exit">Esci</string>
+     <string name="align_satellite_model_use">Inizia</string>
+     <string name="antispam_notification_text">Tocca per attivare le funzionalità DND intelligenti</string>
+     <string name="focus_notification_on_call">Sto chiamando…</string>
+     <string name="miuix_appcompat_edit">Modifica</string>
+     <string name="relay_call_unable_to_work">"Impossibile utilizzare questa funzione per le chiamate trasferite"</string>
+     <string name="relay_device_local">Questo dispositivo</string>
+     <string name="relay_device_type_pc">Computer</string>
+     <string name="relay_stop_recorder">La registrazione è stata interrotta</string>
+     <string name="satellite_call_failed">Segnale interrotto. Riprova.</string>
+     <string name="satellite_dialog_button">Finestra fluttuante</string>
+     <string name="satellite_dialog_cancel">Cancella</string>
+     <string name="satellite_guide_down">"Inclina il dispositivo verso il basso per posizionare la pallina nell'area blu."</string>
+     <string name="satellite_guide_found">Satellite trovato</string>
+     <string name="satellite_guide_left">"Inclina il dispositivo verso sinistra per posizionare l'icona del satellite nell'area blu."</string>
+    <string name="satellite_guide_right">Inclinare il dispositivo verso destra per posizionare l'icona del satellite nell'area blu."</string>
+     <string name="satellite_guide_searching">Ricerca del satellite…</string>
+     <string name="satellite_guide_searching_floating">Ricerca…</string>
+    <string name="satellite_guide_up">"Inclina il dispositivo verso l'alto per posizionare la pallina nell'area blu"</string>
+     <string name="satellite_incall_tip">L'altoparlante è attivo</string>
+     <string name="satellite_service_provider">Fornito da China Telecom</string>
+     <string name="satellite_state">"Non spostare il dispositivo"</string>
+     <string name="satellite_state_connected">"Connesso al satellite. Non spostare il dispositivo."</string>
+     <string name="satellite_state_connected_floating">"Non spostare il dispositivo"</string>
     <string name="abc_action_bar_home_description">Vai alla Home</string>
     <string name="abc_action_bar_up_description">Vai verso l\'alto</string>
     <string name="abc_action_menu_overflow_description">Altre opzioni</string>
