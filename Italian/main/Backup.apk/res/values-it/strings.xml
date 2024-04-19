@@ -1,5 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="battery_auto_plug_wirelee_summary">Caricabatterie wireless collegato correttamente, test superato</string>
+    <string name="cit_btn_security_test_summary">"1. Fare clic sul pulsante e attendere un po', facendo attenzione a controllare lo stato della rete.
+    2.Se compare la scritta Aggiornamento con successo, significa che il certificato widevine è stato aggiornato con successo.
+    3.Se l'aggiornamento del certificato è fallito, significa che l'aggiornamento del certificato widevine è fallito.
+    4.Questo strumento non viene utilizzato come test regolare.
+    5.Questo strumento funziona attualmente solo con XiaoMi Pad 6."</string>
+    <string name="cit_btn_security_test_text">Aggiornamento riuscito</string>
+    <string name="cit_btn_security_text">Aggiornamento del certificato Widevine</string>
+    <string name="cit_btn_security_text_title">Aggiornamento dei certificati di sicurezza</string>
+    <string name="cit_flash_timeout_tip">Tempo del test scaduto, si prega di rientrare nel flash test</string>
+    <string name="cit_lcdlight_title">Test di retroilluminazione</string>
+    <string name="cit_led_change">Seleziona la modalità flash led</string>
+    <string name="cit_led_continue">sempre luminoso</string>
+    <string name="cit_led_interval">adorabile</string>
+    <string name="cit_led_negative">negativo</string>
+    <string name="mic_reopen_tip">Inserisci nuovamente questo elemento di prova per il test</string>
+    <string name="test_back_handset">Prova del ricevitore posteriore</string>
+    <string name="test_first_flash">Primo test flash</string>
+    <string name="test_flash">Prova flash</string>
+    <string name="test_front_handset">Prova del ricevitore anteriore</string>
+    <string name="test_second_flash">Secondo test flash</string>
+    <string name="miuix_appcompat_edit">Modifica</string>
     <string name="abc_action_bar_home_description">Vai alla Home</string>
     <string name="abc_action_bar_up_description">Vai verso l\'alto</string>
     <string name="abc_action_menu_overflow_description">Altre opzioni</string>
