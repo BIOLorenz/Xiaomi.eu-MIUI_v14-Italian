@@ -1,5 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+     <plurals name="car_map_hour">
+        <item quantity="other">%d ore</item>
+        <item quantity="one">%d ora</item>
+     </plurals>
+     <plurals name="car_map_kilometre">
+        <item quantity="other">%d km</item>
+        <item quantity="one">%d km</item>
+     </plurals>
+     <plurals name="car_map_kilometre_decimal">
+        <item quantity="other">%.1f km</item>
+        <item quantity="one">%.1f km</item>
+     </plurals>
+     <plurals name="car_map_meter">
+        <item quantity="other">%d m</item>
+        <item quantity="one">%d m</item>
+     </plurals>
+     <plurals name="car_map_minute">
+        <item quantity="other">%d minuti</item>
+        <item quantity="one">%d minuti</item>
+     </plurals>
+     <plurals name="controller_auth_count_down">
+        <item quantity="other">inserisci il codice da %1$s (%2$d secs)</item>
+        <item quantity="one">inserisci il codice da %1$s (%2$d sec)</item>
+     </plurals>
     <plurals name="a_hour_ago">
         <item quantity="one">un\'ora fa</item>
         <item quantity="other">un\'ora fa</item>
