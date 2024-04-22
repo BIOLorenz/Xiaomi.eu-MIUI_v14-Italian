@@ -1,5 +1,54 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+
+    <string name="androidx_startup">androidx.startup</string>
+    <string name="file_transferring">Trasferimento dei file. Riprova più tardi.</string>
+    <string name="menu_item_permission_manager_and_use_guide_title">Dettagli sulle autorizzazioni</string>
+    <string name="menu_item_privacy_setting_title">Privacy</string>
+    <string name="menu_item_support_device_title">Dispositivi supportati</string>
+    <string name="menu_item_view_privacy_policy_title">Visualizza l'informativa sulla privacy</string>
+    <string name="menu_item_view_user_protocol_title">Visualizza il contratto con l'utente</string>
+    <string name="menu_item_withdraw_privacy_policy_consent_title">Revoca del consenso</string>
+    <string name="mi_share_turbo_mode">Trasferimento turbo</string>
+    <string name="mini_pc_xiaomi_device_model_name">Xiaomi MiniPC</string>
+    <string name="mishare_help_web">https://pc.mi.com/pc-manager-help</string>
+    <string name="miuix_appcompat_edit">Modifica</string>
+    <string name="nfc_check_the_touch_device">Per connettere i dispositivi, Wi-Fi e Bluetooth devono essere attivati ​​anche sul ll'altro dispositivo. Controlla se la connessione per l'altro dispositivo è consentita in Impostazioni > Connessione &amp; condivisione > Dispositivi connessi e riprova.</string>
+    <string name="nfc_check_the_touch_device_china">Per connettere i dispositivi, Wi-Fi e Bluetooth devono essere attivati ​​anche sull'altro dispositivo. Controlla se la connessione per l'altro dispositivo è consentita in Impostazioni > Connessione &amp; condivisione > Dispositivi connessi e riprova.</string>
+    <string name="nfc_connect_fail">"Impossibile connettersi. Attendi un minuto o due e riprova."</string>
+    <string name="nfc_connect_fail_lyra_secure">"Puoi attivare Mi Share nel Centro di controllo del tuo dispositivo."</string>  
+    <string name="nfc_connect_fail_lyra_secure_title">Mi Share è disattivato</string>
+    <string name="nfc_connect_fail_pad">"Impossibile connettersi"</string>
+    <string name="nfc_connecting">Connessione…</string>
+    <string name="nfc_need_to_enable_your_bluetooth_and_wlan">Per connettere i dispositivi, attiva prima Wi-Fi e Bluetooth su questo dispositivo. Accendere adesso?</string>
+    <string name="nfc_need_to_enable_your_bluetooth_and_wlan_china">Per connettere i dispositivi, attiva prima Wi-Fi e Bluetooth su questo dispositivo. Accendere adesso?</string>
+    <string name="nfc_pc_need_to_enable_your_bluetooth_and_wlan">"Impossibile connettersi al computer. Assicurati di aver attivato Wi-Fi e Bluetooth sia sul tuo dispositivo mobile che sul computer e che sul tuo computer sia in esecuzione Xiaomi PC Manager."</string>
+    <string name="nfc_pc_need_to_enable_your_bluetooth_and_wlan_china">"Impossibile connettersi al computer. Assicurati di aver attivato Wi-Fi e Bluetooth sia sul tuo dispositivo mobile che sul computer e che sul tuo computer sia in esecuzione Xiaomi PC Manager."</string>
+    <string name="nfc_share">NFCShare</string>
+    <string name="nfc_wifi_and_bluetooth">Attiva Wi-Fi e Bluetooth</string>
+    <string name="nfc_wifi_and_bluetooth_china">Attiva Wi-Fi e Bluetooth</string>
+    <string name="permission_apply_purpose">Consenti a Mi Share di rilevare e connettersi ai dispositivi vicini per poter trasferire file.</string>
+    <string name="permission_related">Autorizzazioni</string>
+    <string name="privacy_authorize">Autorizzazione</string>
+    <string name="send_one_apk_dialog_desc">%2$d APK \"%3$s"\ da %1$s</string>
+    <string name="send_one_apk_dialog_desc_received">Ricevuto %2$d APK \"%3$s"\ da %1$s</string>
+    <string name="send_one_apk_dialog_desc_receiving">Ricezione di %2$d APK \"%3$s"\ da %1$s</string>
+    <string name="send_one_audio_dialog_desc">%2$d file audio \"%3$s"\ da %1$s</string>
+    <string name="send_one_audio_dialog_desc_received">Ricevuto %2$d file audio \"%3$s"\ da %1$s</string>
+    <string name="send_one_audio_dialog_desc_receiving">Ricezione del file audio %2$d \"%3$s"\ da %1$s</string>
+    <string name="send_one_file_dialog_desc">%2$d %3$s file \"%4$s"\ da %1$s</string>
+    <string name="send_one_file_dialog_desc_received">Ricevuto %2$d %3$s file \"%4$s"\ da %1$s</string>
+    <string name="send_one_file_dialog_desc_receiving">Ricezione del file %2$d %3$s \"%4$s"\ da %1$s</string>
+    <string name="send_one_zip_dialog_desc">%2$d file ZIP \"%3$s"\ da %1$s</string>
+    <string name="send_one_zip_dialog_desc_received">Ricevuto %2$d file ZIP \"%3$s"\ da %1$s</string>
+    <string name="send_one_zip_dialog_desc_receiving">Ricezione %2$d del file ZIP  \"%3$s"\ da %1$s</string>
+    <string name="sub_title_turbo_mode">Trasferimenti super veloci tra telefoni e tablet Xiaomi. La rete verrà disconnessa durante il trasferimento.</string>
+    <string name="sub_title_withdraw_privacy_policy_consent">La revoca del consenso all'Informativa sulla privacy disattiverà anche Mi Share</string>
+    <string name="transfer_to_pc_summary_new_plus"><Dati>Xiaomi PC Manager ora supporta Mi Share! Puoi trovare un elenco dei modelli di computer supportati &lt;a href=%1$s>qui&lt;/a>.</Data></string>
+    <string name="withdraw">Ritira</string>
+    <string name="withdraw_consent_message">"Se continui, ritirerai il tuo consenso all'Informativa sulla privacy di Mi Share. Le informazioni personali già raccolte e conservate verranno cancellate entro il periodo specifico in conformità con le leggi e i regolamenti applicabili, salvo diversa richiesta. Poiché Mi Share fornisce i suoi servizi sulla base della raccolta delle informazioni personali necessarie, la revoca del consenso verrà considerata come rifiuto di accettare i servizi Mi Share."</string>
+    <string name="withdraw_consent_title">Revoca del consenso</string>
+    <string name="withdraw_with_time">Ritira (%1$ds)</string>    
     <string name="abc_action_bar_home_description">Vai alla Home</string>
     <string name="abc_action_bar_up_description">Vai verso l\'alto</string>
     <string name="abc_action_menu_overflow_description">Altre opzioni</string>

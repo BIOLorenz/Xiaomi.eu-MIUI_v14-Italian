@@ -1,5 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="exo_controls_fastforward_by_amount_description">
+        <item quantity="other">Avanza rapido %d secondi</item>
+        <item quantity="one">Avanza rapido %d secondo</item>
+    </plurals>
+    <plurals name="exo_controls_rewind_by_amount_description">
+        <item quantity="other">Riavvolgi %d secondi</item>
+        <item quantity="one">Riavvolgi %d secondo</item>
+    </plurals>
+    <plurals name="manual_picture_style_desc_custom_add_max">
+        <item quantity="other">xxxx%dxxxx</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d nuove notifiche</item>
+        <item quantity="one">%d nuova notifica</item>
+    </plurals>
     <plurals name="a_hour_ago">
         <item quantity="one">un\'ora fa</item>
         <item quantity="other">un\'ora fa</item>

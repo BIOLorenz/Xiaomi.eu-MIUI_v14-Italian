@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+
+     <string name="androidx_startup">androidx.startup</string>
+     <string name="com.google.firebase.crashlytics.mapping_file_id">64bc7ccda9f6477fb8260ae4c2e641ac</string>
+     <string name="miui_feedback_main_item_official_progress">Riparare i progressi</string>
+     <string name="miui_feedback_main_item_official_progress_hint">Aggiorna regolarmente i progressi della riparazione nella community Xiaomi</string>
+     <string name="miui_feedback_main_item_use_guide">Guida utente</string>
+     <string name="miui_feedback_note_install_xiaomi_community">Installa Xiaomi Community per poter utilizzare questa funzionalità.</string>
     <string name="abc_action_bar_home_description">Vai alla Home</string>
     <string name="abc_action_bar_up_description">Vai verso l\'alto</string>
     <string name="abc_action_menu_overflow_description">Altre opzioni</string>

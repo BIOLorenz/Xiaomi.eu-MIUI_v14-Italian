@@ -1,5 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="androidx_startup">androidx.startup</string>
+    <string name="easy_tether_auto_connect_close">chiusura</string>
+    <string name="easy_tether_auto_connect_open">accendere</string>
+    <string name="easy_tether_auto_connect_summary">Attiva automaticamente l'hotspot mobile e connettiti quando i dispositivi vicini con lo stesso account necessitano di accesso a Internet.</string>
+    <string name="easy_tether_cancel">Annulla</string>
+    <string name="easy_tether_confirm">Confermare</string>
+    <string name="easy_tether_connect_method_automatic">connessione automatica</string>
+    <string name="easy_tether_connect_method_dialog">Apro la finestra pop-up</string>
+    <string name="easy_tether_connect_method_manually">Connessione all'elenco Wi-Fi</string>
+    <string name="easy_tether_device_type_pad">Piatto</string>
+    <string name="easy_tether_device_type_pc">computer</string>
+    <string name="easy_tether_device_type_phone">cellulare</string>
+    <string name="easy_tether_device_type_sound">Audio</string>
+    <string name="easy_tether_device_type_tv">televisione</string>
+    <string name="easy_tether_device_type_unknown">dispositivo sconosciuto</string>
+    <string name="easy_tether_device_type_vela_sound">Audio Vela</string>
+    <string name="easy_tether_device_type_vela_watch">Orologio Vela</string>       
+    <string name="easy_tether_next_auto_connect">Connessione automatica la prossima volta?</string>
+    <string name="easy_tether_statusbar_auto_connected_title">Connesso agli hotspot %1$s</string>
+    <string name="easy_tether_statusbar_connect_fail_title">Connessione fallita</string>
+    <string name="easy_tether_statusbar_connect_title">Abilita l'hotspot %1$s</string>
+    <string name="easy_tether_statusbar_connecting_title">Connessione</string>     
+    <string name="easy_tether_statusbar_dialog_connected_title">Collegato</string> 
+    <string name="fast_connect_device_button_audio_share_fail">OK</string>
+    <string name="fast_connect_device_message_audio_share">ascolta l'audio con esso</string>
+    <string name="fast_connect_device_replace_current_device">sostituire il dispositivo attuale</string>
+    <string name="fast_connect_device_reset_audio_share">Tenere premuto per 2 secondi per reimpostare</string>
+    <string name="fast_connect_device_start_audio_share">ascoltare insieme</string>
+    <string name="fast_connect_device_title_audio_share">ascolta con %1$s</string> 
+    <string name="fast_connect_device_title_audio_share_fail">Impossibile connettere %1$s, riprova</string>
+    <string name="fast_connect_device_title_audio_share_success">ascolto con %1$s adesso</string>
+    <string name="headset_new_notification_connecting">Connessione</string>
     <string name="abc_action_bar_home_description">Vai alla Home</string>
     <string name="abc_action_bar_up_description">Vai verso l\'alto</string>
     <string name="abc_action_menu_overflow_description">Altre opzioni</string>
