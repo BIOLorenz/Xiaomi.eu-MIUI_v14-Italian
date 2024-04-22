@@ -1,5 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="androidx_startup">androidx.startup</string>
+    <string name="com.crashlytics.android.build_id">3aa18a9bd4d2480399fda9239eeb487a</string>
+    <string name="default_web_client_id">1049462411227-2t1l5macol9rmoupvj30n717p26vlmhg.apps.googleusercontent.com</string>
+    <string name="dialog_request_all_permission_content">"Per trasferire i dati dal vecchio al nuovo dispositivo, questa applicazione deve connettersi a Internet e richiede le seguenti autorizzazioni:
+- Accesso a foto, audio e video
+- Accesso a messaggi, contatti e cronologia delle chiamate
+- Accesso all'archiviazione
+- Accesso all'elenco delle app installate sul dispositivo"</string>.
+    <string name="dialog_request_all_permission_title">Permessi richiesti</string>.
+    <string name="gcm_defaultSenderId">1049462411227</string>
+    <string name="google_api_key">AIzaSyD6F7XmMed-j-4aOCnRbdD3H2yJJkS8AD8</string>
+    <string name="google_app_id">1:1049462411227:android:ee23698df379c0903561fe</string>
+    <string name="google_crash_reporting_api_key">AIzaSyD6F7XmMed-j-4aOCnRbdD3H2yJJkS8AD8</string>
+    <string name="google_storage_bucket">mi-huanji.appspot.com</string>
+    <string name="miuix_appcompat_edit">Modifica</string>
+    <string name="optional_per_access_camera">Scatta foto e registra video</string>
+    <string name="optional_per_access_location">Ottieni informazioni sulla posizione</string>
+    <string name="optional_per_access_media">Leggere immagini/video/audio</string>
+    <string name="optional_per_get_installed_packages">Leggi l'elenco dei software applicativi</string>
+    <string name="optional_per_read_call_log">Leggi la cronologia delle chiamate</string>
+    <string name="optional_per_read_contacts">Leggi le informazioni di contatto</string>
+    <string name="optional_per_read_sms">Leggere il contenuto del messaggio di testo</string>
+    <string name="optional_per_write_call_log">Scrivi la cronologia delle chiamate</string>
+    <string name="optional_per_write_contacts">Scrivi le informazioni di contatto</string>
+    <string name="project_id">mi-huanji</string>
+    <string name="provisiion_set_old_pad_summary">Utilizza Mi Mover per importare dati dal tuo vecchio dispositivo senza connetterti a Internet</string>
+    <string name="provision_cta_title_pad">Trasferimento dal vecchio dispositivo</string>
+    <string name="provision_select_data_one">Seleziona gli elementi da trasferire</string>
+    <string name="provision_set_new_pad">Utilizzare come nuovo dispositivo</string>
+    <string name="provision_set_old_pad">Importa dal vecchio dispositivo</string>
+    <string name="receiver_video_summary_pad">Sblocca il tuo vecchio dispositivo, tocca "Trasferisci" e scansiona questa immagine</string>
+    <string name="receiver_video_title_pad">Trasferimento dal vecchio dispositivo</string>
     <string name="abc_action_bar_home_description">Vai alla Home</string>
     <string name="abc_action_bar_up_description">Vai verso l\'alto</string>
     <string name="abc_action_menu_overflow_description">Altre opzioni</string>
