@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+
+    <string name="anti_flicker_mode_summary_new">Utilizza l'attenuazione DC in condizioni di scarsa illuminazione per ridurre l'affaticamento degli occhi</string>
+    <string name="app_use">Tempo di visualizzazione dell'app</string>
+    <string name="mi_transfer_banner_summary">Sono supportate più marche di dispositivi</string>
+    <string name="mi_transfer_banner_title">Trasferisci elementi dal tuo vecchio dispositivo</string>
     <string name="abc_action_bar_home_description">Vai alla Home</string>
     <string name="abc_action_bar_up_description">Vai verso l\'alto</string>
     <string name="abc_action_menu_overflow_description">Altre opzioni</string>
