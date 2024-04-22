@@ -11,6 +11,8 @@ Based on a work at http://miui.com and http://miui.it
 Mantained by:
 - BIOLorenz
 
+For HyperOs Italian Strings, see https://github.com/Hackintosh98/HyperOS-XML-1.0-Italian
+
 _________________
 ## Per segnalare un errore di traduzione:
 
