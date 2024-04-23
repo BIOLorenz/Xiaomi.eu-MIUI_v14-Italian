@@ -1,3 +1,5 @@
+[![MIUI14](https://i.imgur.com/SwzOjo4.png)](https://xiaomi.eu/)
+
 # MIUI 14 Italian Strings 
 
 ITALIAN MIUI 14 Strings for MIUI Xiaomi.eu (www.xiaomi.eu) for multi ROMs
