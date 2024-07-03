@@ -2,6 +2,8 @@
 
 # MIUI 14 Italian Strings 
 
+# For HyperOs Italian Strings, see https://github.com/Hackintosh98/HyperOS-XML-1.0-Italian
+
 ITALIAN MIUI 14 Strings for MIUI Xiaomi.eu (www.xiaomi.eu) for multi ROMs
 
 MIUI China is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License.
