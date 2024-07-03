@@ -4,6 +4,7 @@
 
 # For HyperOs Italian Strings
 https://github.com/Hackintosh98/HyperOS-XML-1.0-Italian
+_________________
 
 ITALIAN MIUI 14 Strings for MIUI Xiaomi.eu (www.xiaomi.eu) for multi ROMs
 
