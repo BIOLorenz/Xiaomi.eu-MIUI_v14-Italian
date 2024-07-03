@@ -3,6 +3,7 @@
 # MIUI 14 Italian Strings 
 
 # For HyperOs Italian Strings
+See this updated repository:
 https://github.com/Hackintosh98/HyperOS-XML-1.0-Italian
 _________________
 
